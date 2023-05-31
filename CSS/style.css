@@ -1,0 +1,16 @@
+.college{
+    display: inline;
+    margin-left: 0px;
+    padding: 0px;
+    
+}
+.department{
+    display: inline;
+    text-align: right;
+}
+#SUMMERY{
+    text-align: left;
+}
+.image{
+   margin: 0;
+}
